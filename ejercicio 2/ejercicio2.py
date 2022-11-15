@@ -42,3 +42,4 @@ print(texto.split(','))
 print(texto.replace(',', '').lower().split())
 print('_'.join(texto))
 print(''.join(texto))
+#operadores
