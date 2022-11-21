@@ -21,7 +21,7 @@ velmax = int(input("ingrese la velociadad maxima: "))
 
 v1 = vehiculo(color, puertas, velmax)
 
-f = open('car.bat', 'wb')
+f = open('car.bin', 'wb')
 pickle.dump(v1, f)
 f.close()
 print("vehiculo guardado")
