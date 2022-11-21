@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a71f123-d4f5-48c4-9f5e-d2b647d72573" name="Changes" comment="python 7.00.01">
-      <change afterPath="$PROJECT_DIR$/modulo 7/ejercicio 9/tiempo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo 8/car.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo 8/ejecicio 11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo 8/ejercicio 10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo 8/usuarios.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668806859214</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="python 7.00.01">
+      <created>1668808012977</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668808012977</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
