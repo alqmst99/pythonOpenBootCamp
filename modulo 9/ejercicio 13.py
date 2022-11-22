@@ -3,9 +3,8 @@ from _functools import reduce
 lista = []
 
 for x in range(10):
-    b = 0
-    b += 1
-    a = int(input(f'ingrese valor {b} : '))
+    x +=1
+    a = int(input(f'ingrese valor {x} : '))
     lista.append(a)
 listas = filter(lambda x: x % 2, lista)
 print(list(listas))
