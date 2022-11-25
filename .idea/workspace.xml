@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a71f123-d4f5-48c4-9f5e-d2b647d72573" name="Changes" comment="python 9.00.00">
-      <change afterPath="$PROJECT_DIR$/modulo 10/ejercicio 14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo 10/ejercicio 15.py" afterDir="false" />
+    <list default="true" id="9a71f123-d4f5-48c4-9f5e-d2b647d72573" name="Changes" comment="python 10.00.00">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo 10/ejercicio 15.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo 10/ejercicio 15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669095299240</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="python 10.00.00">
+      <created>1669413867440</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669413867440</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +195,7 @@
     <MESSAGE value="python 8.00.01" />
     <MESSAGE value="python 8.00.02" />
     <MESSAGE value="python 9.00.00" />
-    <option name="LAST_COMMIT_MESSAGE" value="python 9.00.00" />
+    <MESSAGE value="python 10.00.00" />
+    <option name="LAST_COMMIT_MESSAGE" value="python 10.00.00" />
   </component>
 </project>
